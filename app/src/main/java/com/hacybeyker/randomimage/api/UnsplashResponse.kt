@@ -2,6 +2,6 @@ package com.hacybeyker.randomimage.api
 
 import com.hacybeyker.entities.Photo
 
-data class BaseResponse(
+data class UnsplashResponse(
     val results: List<Photo>
 )
