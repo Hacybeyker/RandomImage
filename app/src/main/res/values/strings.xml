@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RandomImage</string>
+    <string name="retry">Retry</string>
+    <string name="no_result">No results found for this query</string>
 </resources>
